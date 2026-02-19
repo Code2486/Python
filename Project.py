@@ -59,7 +59,9 @@ elif 18 <= score <= 20:
     print("Grade: A")
 else:
     print("Score is undifined!")
-#################################################################################################################
+
+"""Group-2"""
+
 # 1.
 n = int(input("Enter your number : "))
 for i in range(n):
@@ -138,4 +140,5 @@ decimal_digit = 0
 for i in b:
         decimal_digit = decimal_digit * 2 + int(i)
         print(decimal_digit)
+
 
